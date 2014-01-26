@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="128" height="64" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="bootvania" tilewidth="32" tileheight="32">
+  <image source="../../../../../Google Drive/Pictures/My Creations/Misc/bootvania.png" width="128" height="256"/>
+ </tileset>
+ <layer name="background" width="128" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt2UEOgjAURVHEsP8tOyIhxMQAxUf7z+BE7Eh6a9U6T9M0AwAAAAAAAAAAAAAAQOdeHUjP0ejSffU/3+3stf79078f3+7jylgP/ZdG0u1atN+v5StjrV/bon/J/q36/EO64Qj90w17a3/H56v+xyS///XYP91L/1z/dKvR+rdcR/rrr3/N/k+Rbql/O+8T0i2PNF8f9a/Z/85zrxHoX8+Z5vqPQ//a9K+tSv/0PD+V/rXpX5v+tV3t/yT61+3v/V+zv/0/7wlr4NdaSM/RyNL9V+t/fPrX7L/dD7ZnffrX679/np6jkaV766+//vrrr7/++P0HQEsfuLxLfw==
+  </data>
+ </layer>
+ <layer name="bg_deco" width="128" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt2cEGACEQBuCuW7d9/4fN0pIolkjb9zGXUXSKmT8EAAAAAAAAAAAAAAAAAIBz3KsfwHSxVKp6V9WPgzttAQAAsA8zPvDVuzN69kj+EAD4r14OJBuC/bS5bxofBwAAAAAAAAAAgGkygBUBdw==
+  </data>
+ </layer>
+ <layer name="tileLayer" width="128" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztmdtKAzEQQANKfVKfrFip/v9f6oKhw3QTk80ks23OgaFQkr2d2cllQwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8OWQCbh/DupX/w/7I/fObokQ1v23HA/6YP189348uMCznRfcz0tP92vHHjGmv/3G8S/eC9st8dIQxw73kcNyftbzGkuvu+RYS6x51R5PKo6JkG0+q+7smlNj/1puYT5svZZI+foI185rw8L/yBzYu/utnEO9L+k/op+PbPOlwsId/u2QTrTz6OxbtD+v/KfJtYk5lxonUiHBvy3Rl2WNLjln6Xih8wj/fZBOevuP51uerR4jZKzVkNn8j1xblNR3b2RtGIH32s96br/luvS6L7XWfw6XdfprxfFrGO3/ySBaciDnalQOxLoQ5/YjxocUt+i/NAdqvdTu66T6l1IzPshaIKO2LuT2nEZg5b8kB3r679HfEulZ5khuz2kElv5jDljVaEv/njmwuE+tPe7Nv2XdeCiIXD/LuWp8f3PfgVL9cnsP+G+fQ6awWq9ohzV7e/99H8B/vxxoXRfEd771mxD+fXIg5X7ru4t/n9Ck5gCpfNLRwyv+x+ZA6b14usb/2BzAfz3eTi1zYGvd8AT/vjXDG/zj39P/PYP/uRnpP1V/9J6C3j/Gfz/28P6vzf8fReC/H3vwv4B/H/A/N3vxv4D/8eB/bvA/N957TzLwDwAAPfgB3mlOpA==
+  </data>
+ </layer>
+</map>
